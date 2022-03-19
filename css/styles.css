@@ -43,7 +43,8 @@ p{
 		float: left;
 		position: relative;
 		background-color: #999999;
-		border: 2px solid black;
+		border: 1px solid black;
+		padding:1%;
 		width: 30%;
 		margin-left: 30px;	
 	}
@@ -53,8 +54,9 @@ p{
 	.col-md-6, .col-md-12 {
 		float: left;
 		position: relative;
+		padding:1%;
 		background-color:#999999;
-		border: 2px solid black;
+		border: 1px solid black;
 		margin-top: 10px;		
 		margin-left: 2%;
 	}
@@ -74,6 +76,7 @@ p{
 	.col-sm-12{
 		float: left;
 		position: relative;
+		padding:1%;
 		background-color:#999999;
 		border: 1px solid black;
 		width: 80%;
